@@ -8,7 +8,7 @@ This project focuses on large-scale sentiment analysis and exploratory data anal
 - **Data Source**: Google Play Store reviews
 - **Number of Reviews Collected**: 500,000
 - **Language**: English
-- **Country**: Global (`country='GB'` for scraping configuration)
+- **Country**: Global (`country='us'` for scraping configuration)
 
 ## Features
 
