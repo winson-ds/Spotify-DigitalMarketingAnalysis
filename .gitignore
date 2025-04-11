@@ -1,0 +1,5 @@
+venv/
+
+data/review_spotify.csv
+
+**/.ipynb_checkpoints
