@@ -1,6 +1,7 @@
 venv/
 
 data/review_spotify.csv
+data/cleaned_text.csv
 
 **/.ipynb_checkpoints
 
